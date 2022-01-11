@@ -1,9 +1,5 @@
-import React from 'react'
-
 function IsLoggedIn() {
-    return ({
-        
-    })
+    return ({type:"ISLOGGEDIN"})
 }
 
 export default IsLoggedIn
